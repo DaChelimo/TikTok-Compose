@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TikTok Clone</string>
+    <string name="go_back">Go Back</string>
+    <string name="share">Share</string>
+</resources>
